@@ -8,6 +8,11 @@
     "type": "git",
     "url": "git@gitlab.cloudnowtech.com:swati.n/webdesign-training.git",
   },
+  "keywords": [
+    "free",
+    "codecamp", 
+    "learning"
+  ],
   "author": "Swati",
   "license": "ISC",
   "dependencies": {
