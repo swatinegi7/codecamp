@@ -2,7 +2,7 @@
   "name": "webdesign-training",
   "version": "1.0.0",
   "description": "Doing this for codecamp",
-  "keywords": [ "free", "codecamp", "learning npm" ],
+  "keywords": [ "free", "codecamp", "learning" ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
