@@ -2,6 +2,7 @@
   "name": "webdesign-training",
   "version": "1.0.0",
   "description": "Doing this for codecamp",
+  "keywords": [ "free", "codecamp", "learning npm" ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +10,6 @@
   "repository": {
     "type": "git",
     "url": "git@gitlab.cloudnowtech.com:swati.n/webdesign-training.git",
-      "keywords": [ "free", "codecamp", "learning npm" ]
   },
   "author": "Swati",
   "license": "ISC",
