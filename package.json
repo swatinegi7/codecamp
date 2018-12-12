@@ -9,9 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git@gitlab.cloudnowtech.com:swati.n/webdesign-training.git"
+      "keywords": [ "free", "codecamp", "learning npm" ]
   },
   "author": "Swati",
-  "keywords": [ "free", "codecamp", "learning npm" ],
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.1.3",
