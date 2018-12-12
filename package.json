@@ -9,7 +9,7 @@
   "repository": {
     "type": "git",
     "url": "git@gitlab.cloudnowtech.com:swati.n/webdesign-training.git",
-      "keywords": [ "free", "codecamp", "learning npm" ],
+      "keywords": [ "free", "codecamp", "learning npm" ]
   },
   "author": "Swati",
   "license": "ISC",
